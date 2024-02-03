@@ -1,17 +1,37 @@
-# dynamic-stepper
+# Dynamic-stepper
 
-a templete for dynamic stepper. Used
+a simple dynamic stepper template for use various purpose.
 
-# Tailwind css
+## Demo live link here:
 
-for styling with
+https://emon-dynamic-stepper.vercel.app/
 
-# React.
+## Run Locally
 
-To use this template type
+Clone the project
 
-# npm install
+```bash
+  git clone https://github.com/Emon201038/dynamic-stepper.git
+```
 
-and
+Install dependencies
 
-# npm run dev
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+or
+
+```bash
+  npm run dev
+```
+
+## Support
+
+For support, email emdadul2580@gmail.com
